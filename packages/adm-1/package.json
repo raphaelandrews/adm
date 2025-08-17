@@ -1,0 +1,17 @@
+{
+  "name": "adm",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev  --open",
+    "export": "slidev export --with-clicks --per-slide --wait-until none"
+  },
+  "devDependencies": {
+    "@iconify-json/devicon": "^1.2.23",
+    "@iconify-json/logos": "^1.2.4",
+    "@iconify-json/simple-icons": "^1.2.31",
+    "@iconify/utils": "^2.3.0",
+    "@proj-airi/lobe-icons": "^0.3.6"
+  }
+}
